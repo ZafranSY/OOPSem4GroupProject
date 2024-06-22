@@ -1,19 +1,46 @@
-## Getting Started
+# Course Registration System
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Overview
+The Course Registration System is a Java-based application that manages the registration of courses for students, lecturers, and administrators. It includes functionalities for viewing, registering, and managing courses, along with user authentication for different roles.
 
-## Folder Structure
+## Table of Contents
+1. [Features](#features)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Actors and Their Roles](#actors-and-their-roles)
+5. [File Structure](#file-structure)
+6. [Contributing](#contributing)
+7. [License](#license)
 
-The workspace contains two folders by default, where:
+## Features
+- **Student Functions**: Search for subjects, register for subjects, drop subjects, and list registered subjects.
+- **Lecturer Functions**: View subject details, choose subjects to teach, drop subjects, and view subject student lists.
+- **Admin Functions**: List subjects, manage subject sections, set student capacity, drop subjects, confirm course registrations, and list registered students and lecturers.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Installation
+To run this project locally, follow these steps:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/yourusername/course-registration-system.git
+    ```
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+2. **Navigate to the project directory**:
+    ```bash
+    cd course-registration-system
+    ```
 
-## Dependency Management
+3. **Compile the Java files**:
+    ```bash
+    javac Project.java
+    ```
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-![image](https://github.com/ZafranSY/OOPSem4GroupProject/assets/110903242/936b6abf-bdb4-42ef-833c-9a75f4550a53)
+4. **Run the application**:
+    ```bash
+    java Project
+    ```
+
+## Usage
+Upon running the application, you will be presented with a main menu to choose between Student, Lecturer, Admin, or exit the application.
+
+### Main Menu
