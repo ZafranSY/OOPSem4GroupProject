@@ -44,3 +44,12 @@ To run this project locally, follow these steps:
 Upon running the application, you will be presented with a main menu to choose between Student, Lecturer, Admin, or exit the application.
 
 ### Main Menu
+    COURSE REGISTRATION SYSTEM
+        -----------------
+            MAIN MENU
+        -----------------
+
+          SELECT OPTION
+        (PRESS 4 TO EXIT)
+
+     ENTER AN OPTION -> 
