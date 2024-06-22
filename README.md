@@ -1,7 +1,7 @@
 # Course Registration System
 
 ## Overview
-The Course Registration System is a Java-based application that manages the registration of courses for students, lecturers, and administrators. It includes functionalities for viewing, registering, and managing courses, along with user authentication for different roles.
+The Course Registration System is a Java-based application that facilitates course registration for students, lecturers, and administrators. It provides functionalities for viewing, registering, and managing courses, with authentication mechanisms for different user roles.
 
 ## Table of Contents
 1. [Features](#features)
@@ -22,12 +22,12 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/course-registration-system.git
+    git clone https://github.com/nenowoDev/OOPSem4GroupProject.git
     ```
 
 2. **Navigate to the project directory**:
     ```bash
-    cd course-registration-system
+    cd OOPSem4GroupProject
     ```
 
 3. **Compile the Java files**:
